@@ -1,0 +1,13 @@
+/home/joao/Desenvolvimento/dotnet/CodeNation/bin/Debug/netcoreapp3.1/CodeNation
+/home/joao/Desenvolvimento/dotnet/CodeNation/bin/Debug/netcoreapp3.1/CodeNation.deps.json
+/home/joao/Desenvolvimento/dotnet/CodeNation/bin/Debug/netcoreapp3.1/CodeNation.runtimeconfig.json
+/home/joao/Desenvolvimento/dotnet/CodeNation/bin/Debug/netcoreapp3.1/CodeNation.runtimeconfig.dev.json
+/home/joao/Desenvolvimento/dotnet/CodeNation/bin/Debug/netcoreapp3.1/CodeNation.dll
+/home/joao/Desenvolvimento/dotnet/CodeNation/bin/Debug/netcoreapp3.1/CodeNation.pdb
+/home/joao/Desenvolvimento/dotnet/CodeNation/obj/Debug/netcoreapp3.1/CodeNation.csprojAssemblyReference.cache
+/home/joao/Desenvolvimento/dotnet/CodeNation/obj/Debug/netcoreapp3.1/CodeNation.AssemblyInfoInputs.cache
+/home/joao/Desenvolvimento/dotnet/CodeNation/obj/Debug/netcoreapp3.1/CodeNation.AssemblyInfo.cs
+/home/joao/Desenvolvimento/dotnet/CodeNation/obj/Debug/netcoreapp3.1/CodeNation.dll
+/home/joao/Desenvolvimento/dotnet/CodeNation/obj/Debug/netcoreapp3.1/CodeNation.pdb
+/home/joao/Desenvolvimento/dotnet/CodeNation/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/joao/Desenvolvimento/dotnet/CodeNation/obj/Debug/netcoreapp3.1/CodeNation.csproj.CopyComplete
